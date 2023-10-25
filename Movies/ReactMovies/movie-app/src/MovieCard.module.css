@@ -1,0 +1,58 @@
+.movieCard {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 10px;
+  width: 20rem; /* Фіксований розмір для всіх карточок */
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  background-color: #fff;
+  text-align: center; /* Центруємо вміст */
+  overflow: hidden; /* Обмежуємо вміст в межах карточки */
+  position: relative;
+}
+
+.movieCard:hover .movieOverview {
+  white-space: normal;
+}
+
+.movieImage {
+  width: 100%; /* Розмір картинки 100% ширини контейнера */
+  max-height: 100%; /* Фіксована максимальна висота картинки */
+  object-fit: cover; /* Заповнюємо контейнер зображенням, зберігаючи співвідношення сторін */
+}
+
+.movieInfo {
+  padding: 10px;
+  text-align: left;
+}
+
+.movieTitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  white-space: nowrap; /* Запобігаємо перенесенню тексту на новий рядок */
+  overflow: hidden; /* Обмежуємо видимий текст до межі карточки */
+  text-overflow: ellipsis; /* Додаємо маркер "еліпсису" для обрізання довгого тексту */
+}
+
+.movieOverview {
+  font-size: 14px;
+  white-space: nowrap; /* Запобігаємо перенесенню тексту на новий рядок */
+  overflow: hidden; /* Обмежуємо видимий текст до межі карточки */
+  text-overflow: ellipsis; /* Додаємо маркер "еліпсису" для обрізання довгого тексту */
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 1);
+  padding: 10px;
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.3s;
+}
+
+.movieCard:hover .movieOverview {
+  transform: scaleY(1);
+}
