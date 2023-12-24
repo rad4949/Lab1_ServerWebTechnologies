@@ -1,4 +1,4 @@
-/ReactMovies/movie-app
-node_modules
-package-lock.json
-
+/ReactMovies/movie-app/node_modules
+/ReactMovies/movie-app/package-lock.json
+Movies/ReactMovies/movie-app/node_modules/
+/.vs

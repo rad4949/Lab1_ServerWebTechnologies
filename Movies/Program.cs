@@ -26,17 +26,6 @@ builder.Services.AddCors(options =>
             .AllowAnyHeader()); // Дозвіл на будь-які HTTP-заголовки
 }); 
 
-//builder.Services.AddCors();
-//builder.Services.AddSpaStaticFiles(configuration =>
-//{
-//    configuration.RootPath = "ClientApp/build";
-//});
-
-
-
-
-
-
 
 
 var app = builder.Build();
@@ -44,7 +33,10 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
 //{
-
+//    app.MapGet("/", async context =>
+//    {
+//        await context.Response.WriteAsync("Hello Movies");
+//    });
 //}
 
 app.UseHttpsRedirection();
@@ -63,10 +55,5 @@ app.MapGet("/", async context =>
 
 app.UseCors("ReactMovies");
 
-
-//app.MapGet("api/movies/{action}/{id?}", async context => ());
-
-
-//app.Run(async (context) => await context.Response.WriteAsync("Hello I'm Movies"));
 
 app.Run();

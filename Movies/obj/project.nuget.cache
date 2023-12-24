@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Br0Uk1Qg+bar24flhQ7OXbrmCa7n5hlsKActCTcHEyfYw/whqCexfl7Yz0dKRPsmdG/Cv1GmKEDbx7H4gRz9eQ==",
+  "dgSpecHash": "rtnYUy+lXU0SKisqSZip0QNPRw5KQduecBETWQeqwWsCHJn7eUAQl4O6rbpXIaIanRhrymLGudEU9oztXczAsQ==",
   "success": true,
-  "projectFilePath": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\Лаб1\\Movies\\Movies\\Movies.csproj",
+  "projectFilePath": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\copy 2\\Lab_1\\Movies\\Movies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igor1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\igor1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\igor1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\igor1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\igor1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\igor1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

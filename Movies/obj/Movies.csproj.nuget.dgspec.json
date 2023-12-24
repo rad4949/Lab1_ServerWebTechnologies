@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\Лаб1\\Movies\\Movies\\Movies.csproj": {}
+    "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\copy 2\\Lab_1\\Movies\\Movies.csproj": {}
   },
   "projects": {
-    "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\Лаб1\\Movies\\Movies\\Movies.csproj": {
+    "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\copy 2\\Lab_1\\Movies\\Movies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\Лаб1\\Movies\\Movies\\Movies.csproj",
+        "projectUniqueName": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\copy 2\\Lab_1\\Movies\\Movies.csproj",
         "projectName": "Movies",
-        "projectPath": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\Лаб1\\Movies\\Movies\\Movies.csproj",
+        "projectPath": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\copy 2\\Lab_1\\Movies\\Movies.csproj",
         "packagesPath": "C:\\Users\\igor1\\.nuget\\packages\\",
-        "outputPath": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\Лаб1\\Movies\\Movies\\obj\\",
+        "outputPath": "D:\\КПІ\\4 курс\\Веб-серверні застосунки\\copy 2\\Lab_1\\Movies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

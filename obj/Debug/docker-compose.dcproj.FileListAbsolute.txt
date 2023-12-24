@@ -1,0 +1,15 @@
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\Movies.deps.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\Movies.runtimeconfig.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\appsettings.Development.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\appsettings.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\ReactMovies\movie-app\package-lock.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\ReactMovies\movie-app\package.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\ReactMovies\movie-app\public\manifest.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\ReactMovies\package-lock.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\ReactMovies\package.json
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\Movies.exe
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\Movies.dll
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\bin\Debug\Movies.pdb
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\КПІ\4 курс\Веб-серверні застосунки\Lab_1\obj\Debug\docker-compose.dcproj.CopyComplete
